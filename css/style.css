@@ -1427,3 +1427,19 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
+
+  ::-webkit-scrollbar-track {
+    border: 5px solid white;
+    background-color: #eaf1f4;
+  }
+  
+  ::-webkit-scrollbar {
+    width: 5px;
+    background-color: #dfe6e9;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #d5d4d4;
+    border-radius: 10px;
+  }
+  
